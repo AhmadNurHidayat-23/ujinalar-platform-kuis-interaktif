@@ -1,0 +1,108 @@
+<?php
+
+return [
+    [
+        'id' => 'teknologi-01',
+        'category' => 'teknologi',
+        'text' => 'Apa kepanjangan CPU dalam komputer?',
+        'options' => [
+            'a' => 'Computer Personal Unit',
+            'b' => 'Central Processing Unit',
+            'c' => 'Central Program Utility',
+            'd' => 'Control Power Unit',
+        ],
+        'answer' => 'b',
+        'explanation' => 'CPU adalah Central Processing Unit, komponen yang mengeksekusi instruksi dan mengolah data pada komputer.',
+    ],
+    [
+        'id' => 'teknologi-02',
+        'category' => 'teknologi',
+        'text' => 'Manakah bahasa yang digunakan untuk menyusun struktur halaman web?',
+        'options' => [
+            'a' => 'CSS',
+            'b' => 'SQL',
+            'c' => 'Python',
+            'd' => 'HTML',
+        ],
+        'answer' => 'd',
+        'explanation' => 'HTML menyusun struktur dan makna konten halaman web, seperti judul, paragraf, tautan, dan formulir.',
+    ],
+    [
+        'id' => 'teknologi-03',
+        'category' => 'teknologi',
+        'text' => 'Apa fungsi utama CSS pada halaman web?',
+        'options' => [
+            'a' => 'Mengatur tampilan halaman',
+            'b' => 'Menyimpan data pengguna',
+            'c' => 'Mengirim surat elektronik',
+            'd' => 'Menjalankan sistem operasi',
+        ],
+        'answer' => 'a',
+        'explanation' => 'CSS mengatur presentasi halaman web, termasuk warna, tipografi, jarak, dan tata letak.',
+    ],
+    [
+        'id' => 'teknologi-04',
+        'category' => 'teknologi',
+        'text' => 'Apa yang dimaksud dengan perangkat lunak sumber terbuka?',
+        'options' => [
+            'a' => 'Perangkat lunak yang selalu berbayar',
+            'b' => 'Perangkat lunak khusus tanpa internet',
+            'c' => 'Perangkat lunak yang kode sumbernya tersedia dengan lisensi untuk dipelajari, diubah, dan dibagikan',
+            'd' => 'Perangkat lunak yang tidak memiliki lisensi',
+        ],
+        'answer' => 'c',
+        'explanation' => 'Lisensi sumber terbuka memberikan hak untuk mempelajari, memodifikasi, dan mendistribusikan kode sesuai ketentuan lisensinya.',
+    ],
+    [
+        'id' => 'teknologi-05',
+        'category' => 'teknologi',
+        'text' => 'Apa fungsi utama DNS di internet?',
+        'options' => [
+            'a' => 'Mengisi daya perangkat',
+            'b' => 'Menerjemahkan nama domain menjadi alamat IP',
+            'c' => 'Memperbesar kapasitas memori',
+            'd' => 'Mengedit gambar digital',
+        ],
+        'answer' => 'b',
+        'explanation' => 'DNS membantu menerjemahkan nama domain, seperti example.com, menjadi alamat IP yang digunakan untuk menemukan layanan di jaringan.',
+    ],
+    [
+        'id' => 'teknologi-06',
+        'category' => 'teknologi',
+        'text' => 'Sistem bilangan biner menggunakan dua angka apa?',
+        'options' => [
+            'a' => '1 dan 2',
+            'b' => '0 dan 9',
+            'c' => '2 dan 8',
+            'd' => '0 dan 1',
+        ],
+        'answer' => 'd',
+        'explanation' => 'Sistem biner berbasis dua dan hanya menggunakan digit 0 serta 1 untuk merepresentasikan nilai.',
+    ],
+    [
+        'id' => 'teknologi-07',
+        'category' => 'teknologi',
+        'text' => 'Apa fungsi utama RAM pada komputer?',
+        'options' => [
+            'a' => 'Menyimpan data sementara yang sedang digunakan',
+            'b' => 'Mencetak dokumen',
+            'c' => 'Menampilkan gambar di layar',
+            'd' => 'Menyimpan data permanen tanpa listrik',
+        ],
+        'answer' => 'a',
+        'explanation' => 'RAM menyimpan data dan instruksi yang sedang digunakan. Isinya umumnya hilang ketika daya dimatikan.',
+    ],
+    [
+        'id' => 'teknologi-08',
+        'category' => 'teknologi',
+        'text' => 'Apa keunggulan HTTPS dibandingkan HTTP dalam pengiriman data?',
+        'options' => [
+            'a' => 'Selalu membuat internet lebih cepat',
+            'b' => 'Menghapus kebutuhan kata sandi',
+            'c' => 'Mengenkripsi komunikasi menggunakan TLS',
+            'd' => 'Mencegah semua jenis penipuan',
+        ],
+        'answer' => 'c',
+        'explanation' => 'HTTPS menggunakan TLS untuk melindungi komunikasi saat data dikirim. HTTPS tidak menjamin seluruh isi situs dapat dipercaya.',
+    ],
+];

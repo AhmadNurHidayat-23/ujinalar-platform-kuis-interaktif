@@ -1,0 +1,108 @@
+<?php
+
+return [
+    [
+        'id' => 'sains-01',
+        'category' => 'sains',
+        'text' => 'Apa rumus kimia air?',
+        'options' => [
+            'a' => 'CO₂',
+            'b' => 'H₂O',
+            'c' => 'O₂',
+            'd' => 'NaCl',
+        ],
+        'answer' => 'b',
+        'explanation' => 'Satu molekul air terdiri atas dua atom hidrogen dan satu atom oksigen, sehingga rumusnya H₂O.',
+    ],
+    [
+        'id' => 'sains-02',
+        'category' => 'sains',
+        'text' => 'Planet manakah yang paling dekat dengan Matahari?',
+        'options' => [
+            'a' => 'Venus',
+            'b' => 'Bumi',
+            'c' => 'Mars',
+            'd' => 'Merkurius',
+        ],
+        'answer' => 'd',
+        'explanation' => 'Merkurius adalah planet terdekat dengan Matahari. Urutan berikutnya adalah Venus, Bumi, dan Mars.',
+    ],
+    [
+        'id' => 'sains-03',
+        'category' => 'sains',
+        'text' => 'Gas apakah yang diserap tumbuhan dari udara untuk fotosintesis?',
+        'options' => [
+            'a' => 'Karbon dioksida',
+            'b' => 'Helium',
+            'c' => 'Nitrogen',
+            'd' => 'Hidrogen',
+        ],
+        'answer' => 'a',
+        'explanation' => 'Dalam fotosintesis, tumbuhan menggunakan karbon dioksida dan air dengan bantuan energi cahaya untuk membentuk gula.',
+    ],
+    [
+        'id' => 'sains-04',
+        'category' => 'sains',
+        'text' => 'Apa satuan SI untuk gaya?',
+        'options' => [
+            'a' => 'Joule',
+            'b' => 'Watt',
+            'c' => 'Newton',
+            'd' => 'Pascal',
+        ],
+        'answer' => 'c',
+        'explanation' => 'Satuan SI untuk gaya adalah newton (N). Satu newton setara dengan satu kilogram meter per detik kuadrat.',
+    ],
+    [
+        'id' => 'sains-05',
+        'category' => 'sains',
+        'text' => 'Organ manakah yang memompa darah ke seluruh tubuh manusia?',
+        'options' => [
+            'a' => 'Paru-paru',
+            'b' => 'Jantung',
+            'c' => 'Hati',
+            'd' => 'Ginjal',
+        ],
+        'answer' => 'b',
+        'explanation' => 'Jantung memompa darah melalui pembuluh darah untuk membawa oksigen dan zat gizi ke jaringan tubuh.',
+    ],
+    [
+        'id' => 'sains-06',
+        'category' => 'sains',
+        'text' => 'Perubahan wujud dari cair menjadi gas disebut apa?',
+        'options' => [
+            'a' => 'Pembekuan',
+            'b' => 'Pengembunan',
+            'c' => 'Penyubliman',
+            'd' => 'Penguapan',
+        ],
+        'answer' => 'd',
+        'explanation' => 'Penguapan adalah perubahan wujud zat dari cair menjadi gas. Pengembunan merupakan proses kebalikannya.',
+    ],
+    [
+        'id' => 'sains-07',
+        'category' => 'sains',
+        'text' => 'Pada tekanan satu atmosfer, berapa titik didih air murni?',
+        'options' => [
+            'a' => '100 °C',
+            'b' => '0 °C',
+            'c' => '50 °C',
+            'd' => '200 °C',
+        ],
+        'answer' => 'a',
+        'explanation' => 'Air murni mendidih sekitar 100 °C pada tekanan satu atmosfer. Titik didih berubah ketika tekanan berubah.',
+    ],
+    [
+        'id' => 'sains-08',
+        'category' => 'sains',
+        'text' => 'Bagian sel manakah yang menjadi tempat utama fotosintesis pada tumbuhan?',
+        'options' => [
+            'a' => 'Mitokondria',
+            'b' => 'Ribosom',
+            'c' => 'Kloroplas',
+            'd' => 'Inti sel',
+        ],
+        'answer' => 'c',
+        'explanation' => 'Fotosintesis berlangsung di kloroplas, organel yang mengandung klorofil untuk menyerap energi cahaya.',
+    ],
+];

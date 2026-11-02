@@ -1,0 +1,108 @@
+<?php
+
+return [
+    [
+        'id' => 'umum-01',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Benua manakah yang memiliki luas daratan terbesar?',
+        'options' => [
+            'a' => 'Afrika',
+            'b' => 'Asia',
+            'c' => 'Eropa',
+            'd' => 'Amerika Selatan',
+        ],
+        'answer' => 'b',
+        'explanation' => 'Asia adalah benua dengan luas daratan terbesar di Bumi, sekitar 44,6 juta kilometer persegi.',
+    ],
+    [
+        'id' => 'umum-02',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Pada tanggal berapa Indonesia memproklamasikan kemerdekaan?',
+        'options' => [
+            'a' => '17 Agustus 1945',
+            'b' => '1 Juni 1945',
+            'c' => '28 Oktober 1928',
+            'd' => '10 November 1945',
+        ],
+        'answer' => 'a',
+        'explanation' => 'Proklamasi Kemerdekaan Indonesia dibacakan oleh Soekarno, didampingi Mohammad Hatta, pada 17 Agustus 1945.',
+    ],
+    [
+        'id' => 'umum-03',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Apa nama mata uang resmi Jepang?',
+        'options' => [
+            'a' => 'Won',
+            'b' => 'Yuan',
+            'c' => 'Baht',
+            'd' => 'Yen',
+        ],
+        'answer' => 'd',
+        'explanation' => 'Mata uang resmi Jepang adalah yen. Won digunakan di Korea, yuan di Tiongkok, dan baht di Thailand.',
+    ],
+    [
+        'id' => 'umum-04',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Samudra manakah yang terluas di Bumi?',
+        'options' => [
+            'a' => 'Samudra Atlantik',
+            'b' => 'Samudra Hindia',
+            'c' => 'Samudra Pasifik',
+            'd' => 'Samudra Arktik',
+        ],
+        'answer' => 'c',
+        'explanation' => 'Samudra Pasifik adalah samudra terluas di Bumi dan membentang di antara Asia, Australia, serta Amerika.',
+    ],
+    [
+        'id' => 'umum-05',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Siapa penulis novel Laskar Pelangi?',
+        'options' => [
+            'a' => 'Pramoedya Ananta Toer',
+            'b' => 'Andrea Hirata',
+            'c' => 'Tere Liye',
+            'd' => 'Dee Lestari',
+        ],
+        'answer' => 'b',
+        'explanation' => 'Laskar Pelangi ditulis oleh Andrea Hirata dan pertama kali diterbitkan pada 2005.',
+    ],
+    [
+        'id' => 'umum-06',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Apa nama organisasi internasional yang disingkat PBB?',
+        'options' => [
+            'a' => 'Persatuan Bangsa Bersama',
+            'b' => 'Perhimpunan Bangsa Berdaulat',
+            'c' => 'Persatuan Benua Bersama',
+            'd' => 'Perserikatan Bangsa-Bangsa',
+        ],
+        'answer' => 'd',
+        'explanation' => 'PBB adalah singkatan dari Perserikatan Bangsa-Bangsa, organisasi internasional yang didirikan pada 1945.',
+    ],
+    [
+        'id' => 'umum-07',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Di negara manakah Piramida Agung Giza berada?',
+        'options' => [
+            'a' => 'Mesir',
+            'b' => 'Yunani',
+            'c' => 'Meksiko',
+            'd' => 'Irak',
+        ],
+        'answer' => 'a',
+        'explanation' => 'Piramida Agung Giza terletak di Mesir dan dibangun pada masa Mesir Kuno sebagai makam Firaun Khufu.',
+    ],
+    [
+        'id' => 'umum-08',
+        'category' => 'pengetahuan-umum',
+        'text' => 'Alat musik angklung secara tradisional dibuat terutama dari bahan apa?',
+        'options' => [
+            'a' => 'Besi',
+            'b' => 'Kaca',
+            'c' => 'Bambu',
+            'd' => 'Kulit',
+        ],
+        'answer' => 'c',
+        'explanation' => 'Angklung dibuat dari tabung-tabung bambu. Bunyi dihasilkan ketika rangka angklung digoyangkan.',
+    ],
+];
